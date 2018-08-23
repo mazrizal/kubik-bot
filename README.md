@@ -1,2 +1,0 @@
-# kubik-bot
-Semoga bermanfaat
